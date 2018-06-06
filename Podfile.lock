@@ -1,0 +1,21 @@
+PODS:
+  - libCGE (2.4.5)
+
+DEPENDENCIES:
+  - libCGE (from `https://github.com/wysaid/ios-gpuimage-plus-pod.git`)
+
+EXTERNAL SOURCES:
+  libCGE:
+    :git: https://github.com/wysaid/ios-gpuimage-plus-pod.git
+
+CHECKOUT OPTIONS:
+  libCGE:
+    :commit: baedf79861bd509d88115d02d7db1aa01673edae
+    :git: https://github.com/wysaid/ios-gpuimage-plus-pod.git
+
+SPEC CHECKSUMS:
+  libCGE: 727fd408c1a03f2bb1fbf700b85bd72815bb25f8
+
+PODFILE CHECKSUM: a887918209e337e00ec2c9efdf6ff1b54aad65bd
+
+COCOAPODS: 1.5.3
